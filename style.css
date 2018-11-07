@@ -1,0 +1,67 @@
+body {
+    background:#777 url(../Basic-Portfolio/assets/images/gravel.png);
+    color: #777 ;
+    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.tealWhite{
+    background-color: #4aaaa5; 
+    color: #fff;
+    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+  }
+
+  /* Navbar Stuff */
+
+  header {
+    background-color: #fff;
+    border-color: #ccc;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+  }
+
+  a:link, a:visited {
+    text-decoration: none;
+    color: #777 ;
+    font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+  }
+  
+  a:hover {
+    color: #4aaaa5;
+  }
+
+/* Main Content Stuff */
+
+  main{
+      border: solid 4px #ccc;
+  }
+
+  .contentHead {
+    color: #4aaaa5;
+  }
+
+  hr {
+    height: 4px;
+    border: none;
+    color: #ccc;
+    background-color: #ccc;
+  }
+
+  /* Index Stuff */
+
+  /* Contact Stuff */
+
+  /* Gallery Stuff */
+
+  /* Footer Stuff */
+
+  footer {
+    background-color: #666;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+  }
+  
+
