@@ -37,6 +37,7 @@ body {
 
   main{
       border: solid 4px #ccc;
+      flex: 1 0 auto;
   }
 
   .contentHead {
@@ -62,6 +63,7 @@ body {
     background-color: #666;
     text-align: center;
     border-top: 8px solid #4aaaa5;
+    flex-shrink: 0;
   }
   
 
