@@ -12,6 +12,7 @@ body {
     background-color: #4aaaa5; 
     color: #fff;
     font-family: 'Arial', 'helvetica Neue', Helvetica, sans-serif;
+    white-space: nowrap;
   }
 
   /* Navbar Stuff */
@@ -55,7 +56,16 @@ body {
 
   /* Contact Stuff */
 
+  /* .smInput {
+      width: 40%;
+  }
+
+  .lgInput {
+      width: 80%; */
+
+
   /* Gallery Stuff */
+
 
   /* Footer Stuff */
 
@@ -63,7 +73,9 @@ body {
     background-color: #666;
     text-align: center;
     border-top: 8px solid #4aaaa5;
+    height: 10vh;
     flex-shrink: 0;
+    margin-top: auto;
   }
   
 
